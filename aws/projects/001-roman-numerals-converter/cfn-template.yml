@@ -24,7 +24,7 @@ Resources:
     Properties:
       ImageId: ami-09d95fab7fff3776c
       InstanceType: t2.micro
-      KeyName: o
+      KeyName: aaa 
       SecurityGroupIds:
         - !Ref RomanNumeralsConverterSC
       Tags:                
